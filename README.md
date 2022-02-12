@@ -24,5 +24,5 @@ The objective is to check if the Lead gender can be predicted using the other pa
 | Lead | The gender of the lead actor  (Male/Female)|
 
 ## Method Used
-I used the decision tree method.
+I used the decision tree classifier.
 The accuracy of the prediction is approximately 79.5%
